@@ -5,3 +5,6 @@ Using the MNIST data set, a collection of 70,000 handwriting samples of numbers 
 
 ### Handwriting Recognition 2
 Using the MNIST data set, a collection of 70,000 handwriting samples of numbers 0-9, we predict which number each handwritten image represents using a Convolutional Neural Network that's better suited for image processing. CNN's are less sensitive to where in the image the pattern is that we're looking for.
+
+### Transfer Learning
+Using the ResNet50 model, trained on the imagenet data set, in order to quickly classify new images. The ResNet50 pre-trained CNN expects inputs of 224x224 resolution, and will classify objects into one of 1,000 possible categories.
