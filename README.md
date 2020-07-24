@@ -1,5 +1,8 @@
 # ImageProcessing-ML
 
+## PS:
+Jupyter Notebooks are a powerful way to write and iterate on your Python code for data analysis. Rather than writing and re-writing an entire program, you can write lines of code and run them one at a time, thus giving you a better flexibility to run the code.
+
 ### Handwriting Recognition 1
 Using the MNIST data set, a collection of 70,000 handwriting samples of numbers 0-9, we predict which number each handwritten image represents using TENSORFLOW(with multi-level perceptrons).
 
