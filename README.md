@@ -1,6 +1,5 @@
 # ImageProcessing-ML
 
-## PS:
 Jupyter Notebooks are a powerful way to write and iterate on your Python code for data analysis. Rather than writing and re-writing an entire program, you can write lines of code and run them one at a time, thus giving you a better flexibility to run the code.
 
 ### Handwriting Recognition 1
